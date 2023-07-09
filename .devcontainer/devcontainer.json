@@ -1,0 +1,9 @@
+{
+	"name": "PUMP Server",
+	"image": "mcr.microsoft.com/devcontainers/go:1.20",
+	"extensions": [
+		"eamodio.gitlens",
+		"golang.go",
+		"mhutchie.git-graph",
+	]
+}
